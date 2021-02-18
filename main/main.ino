@@ -25,7 +25,7 @@ void setup(void) {
   // may end up with a black screen some times, or all the time.
   //tft.setSPISpeed(40000000);
   
-  tft.setColRowStart(26, 1);
+  //tft.setColRowStart(26, 1);
   tft.setRotation(3);
   tft.invertDisplay(true);
 
